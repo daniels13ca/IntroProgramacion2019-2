@@ -7,6 +7,6 @@ silvdaniel@gmail.com
 ### Contenidos del curso
 
 1. ¿Qué es programación?
-..* Los algoritmos
-..* Herramientas a utilizar en este curso
+* Los algoritmos y el pseudocódigo
+* Herramientas a utilizar en este curso
 
