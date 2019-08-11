@@ -12,6 +12,15 @@ silvdaniel@gmail.com
 * Los algoritmos y el pseudocódigo
 * Herramientas a utilizar en este curso
 
+[2. Concetos básicos en un Sketch](https://github.com/daniels13ca/Intro_Programacion/blob/master/PrimerosSketch.md)
+* Estructura básica
+* Dibujando una línea
+* Coordenadas
+* Primitivas 2D
+* Colores
+* Radianes
+* Operadores
+
 ### Bibliografía
 
 [Introducción a P5.js](https://github.com/daniels13ca/Intro_Programacion/blob/master/Bibliograf%C3%ADa/Introduccion%20a%20P5.js.pdf)

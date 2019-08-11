@@ -23,7 +23,6 @@ function setup(){
 ## Dibujando una línea
 Por ejemplo para dibujar una línea:
 ```javascript
-//El draw() que se ejecuta cíclicamente
 function setup(){
     createCanvas(480, 120);
 }
@@ -33,10 +32,10 @@ function draw(){
     line(20, 50, 420, 110);
 }
 ```
-Imagen de la línea
+![Línea](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/L%C3%ADnea.JPG "Línea recta")
 
 ## Coordenadas
-Imagen de las coordenadas
+![Sistema de coordenadas](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "Sistema de coordenadas")
 
 [Ejemplo Sistema de coordenadas](https://www.openprocessing.org/sketch/743823)
 
