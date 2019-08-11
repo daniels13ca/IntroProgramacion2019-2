@@ -4,7 +4,7 @@
 Daniel Silva Barrera
 silvdaniel@gmail.com
 
-#### Sistema de calificación y notas
+#### [Criterios de Calificación](https://github.com/daniels13ca/Intro_Programacion/blob/master/Calificaciones.md)
 
 ### Contenidos del curso
 

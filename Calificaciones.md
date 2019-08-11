@@ -1,4 +1,4 @@
-#Critetios de Calificación
+# Critetios de Calificación
 ## 2019-2
 
 ### Primer Corte (30%)
