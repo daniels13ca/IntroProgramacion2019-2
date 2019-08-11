@@ -4,6 +4,8 @@
 Daniel Silva Barrera
 silvdaniel@gmail.com
 
+#### Sistema de calificación y notas
+
 ### Contenidos del curso
 
 [1. ¿Qué es programación?](https://github.com/daniels13ca/IntroProgramacion2019-2/blob/master/Presentaciones/%5BIntroProg%5D%20Clase%201.pdf)
