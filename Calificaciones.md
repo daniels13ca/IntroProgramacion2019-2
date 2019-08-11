@@ -12,7 +12,7 @@
 + Primera entrega del proyecto y sustentación: 40% **(12 de Octubre)**
 
 
-### Tercer Corte (30%)
+### Tercer Corte (40%)
 + Actividades en clase: 30%
 + Tareas y ativdades en casa: 30%
 + Primera entrega del proyecto y sustentación: 40% **(23 de Noviembre)**
