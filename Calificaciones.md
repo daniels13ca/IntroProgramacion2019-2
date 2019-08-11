@@ -17,4 +17,4 @@
 + Tareas y ativdades en casa: 30%
 + Primera entrega del proyecto y sustentación: 40% **(23 de Noviembre)**
 
-#### Tener en cuenta que la materia de puede perder por inasistencia a clase
+#### Tener en cuenta que la materia se puede perder por inasistencia a clase
