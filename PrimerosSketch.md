@@ -103,7 +103,7 @@ function setup() {
 	createCanvas(480, 120);
 	noStroke();
 }
-	function draw() {
+function draw() {
 	background(0, 26, 51); // Color azul oscuro
 	fill(255, 0, 0); // Color rojo
 	ellipse(132, 82, 200, 200); // Círculo rojo
