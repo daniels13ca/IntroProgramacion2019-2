@@ -17,8 +17,10 @@ silvdaniel@gmail.com
 * Dibujando una línea
 * Coordenadas
 * Primitivas 2D
-* Colores
 * Radianes
+* Colores
+
+[3. Estructuras de control: Condicionales](https://github.com/daniels13ca/Intro_Programacion)
 * Operadores
 
 ### Bibliografía

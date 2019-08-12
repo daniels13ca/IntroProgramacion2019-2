@@ -29,6 +29,7 @@ function setup(){
 
 function draw(){
     background(204);
+    
     line(20, 50, 420, 110);
 }
 ```
@@ -41,8 +42,10 @@ function draw(){
 
 ## Primitivas 2D
 
-## Colores
-
 ## Radianes
 
-## Operadores
+## Colores
+
+
+
+
