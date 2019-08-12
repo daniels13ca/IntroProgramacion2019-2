@@ -41,8 +41,43 @@ function draw(){
 [Ejemplo Sistema de coordenadas](https://www.openprocessing.org/sketch/743823)
 
 ## Primitivas 2D
+![Primitivas 1](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/primitivas1.JPG "Primitivas 1")
+![Primitivas 2](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/primitivas2.JPG "Primitivas 2")
 
 ## Radianes
+![Radianes](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/radianes.JPG "Radianes")
+
+Algunos ejemplos de `arch()`:
+
+```javascript
+function setup(){
+    createCanvas(480, 120);
+}
+
+function draw(){
+    background(204);
+    
+    arc(90, 60, 80, 80, 0, HALF_PI);
+	arc(190, 60, 80, 80, 0, PI+HALF_PI);
+	arc(290, 60, 80, 80, PI, TWO_PI+HALF_PI);
+	arc(390, 60, 80, 80, QUARTER_PI, PI+QUARTER_PI);
+}
+```
+
+Si se prefiere trabajar con grados se pueden usar dos estrategias:
+
+* Función `radians()`:
+```javascript
+arc(90, 60, 80, 80, 0, radians(90);
+```
+
+* Establecer el `angleMode()`:
+```javascript
+function setup(){
+    createCanvas(480, 120);
+    angleMode(DEGRESS);
+}
+```
 
 ## Colores
 
