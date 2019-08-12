@@ -80,7 +80,55 @@ function setup(){
 ```
 
 ## Colores
+* Escala de grises:
+```javascript
+function setup() {
+	createCanvas(480, 120);
+}
 
+function draw() {
+	background(0); // Negro
+	fill(204); // Gris claro
+	ellipse(132, 82, 200, 200); // Círculo gris claro
+	fill(153); // Gris medio
+	ellipse(228, -16, 200, 200); // Círculo gris medio
+	fill(102); // Gris oscuro
+	ellipse(268, 118, 200, 200); // Círculo gris oscuro
+}
+```
 
+* Dibujar en RGB:
+```javascript
+function setup() {
+	createCanvas(480, 120);
+	noStroke();
+}
+	function draw() {
+	background(0, 26, 51); // Color azul oscuro
+	fill(255, 0, 0); // Color rojo
+	ellipse(132, 82, 200, 200); // Círculo rojo
+	fill(0, 255, 0); // Color verde
+	ellipse(228, -16, 200, 200); // Círculo verde
+	fill(0, 0, 255); // Color azul
+	ellipse(268, 118, 200, 200); // Círculo azul
+}
+```
 
+* Transparencia:
+```javascript
+function setup() {
+	createCanvas(480, 120);
+	noStroke();
+}
+function draw() {
+	background(0, 26, 51); // Color azul oscuro
+	fill(255, 0, 0, 160); // Color rojo
+	ellipse(132, 82, 200, 200); // Círculo rojo
+	fill(0, 255, 0, 160); // Color verde
+	ellipse(228, -16, 200, 200); // Círculo verde
+	fill(0, 0, 255, 160); // Color azul
+	ellipse(268, 118, 200, 200); // Círculo azul
+}
+```
 
+**Actividad:** Probar las funciones `fill()`, `noFill()`, `stroke()`, `noStroke()`
