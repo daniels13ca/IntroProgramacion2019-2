@@ -75,7 +75,7 @@ arc(90, 60, 80, 80, 0, radians(90);
 ```javascript
 function setup(){
     createCanvas(480, 120);
-    angleMode(DEGRESS);
+    angleMode(DEGREES);
 }
 ```
 
