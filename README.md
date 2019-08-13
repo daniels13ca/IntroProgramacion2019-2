@@ -23,6 +23,20 @@ silvdaniel@gmail.com
 [3. Estructuras de control: Condicionales](https://github.com/daniels13ca/Intro_Programacion)
 * Operadores
 
+[3. Estructuras de control: Ciclos](https://github.com/daniels13ca/Intro_Programacion)
+
+[4. Estructuras de control: Ciclos anidados](https://github.com/daniels13ca/Intro_Programacion)
+
+[5. Funciones](https://github.com/daniels13ca/Intro_Programacion)
+
+[6. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion)
+
+[7. Control del tiempo y velocidad](https://github.com/daniels13ca/Intro_Programacion)
+
+[8. Interacción con sonidos](https://github.com/daniels13ca/Intro_Programacion)
+
+[9. Flujo de pantalla](https://github.com/daniels13ca/Intro_Programacion)
+
 ### Bibliografía
 
 [Introducción a P5.js](https://github.com/daniels13ca/Intro_Programacion/blob/master/Bibliograf%C3%ADa/Introduccion%20a%20P5.js.pdf)
