@@ -27,6 +27,8 @@ silvdaniel@gmail.com
 
 [Introducción a P5.js](https://github.com/daniels13ca/Intro_Programacion/blob/master/Bibliograf%C3%ADa/Introduccion%20a%20P5.js.pdf)
 
+[The Coding Train](https://thecodingtrain.com/)
+
 [Librería P5](https://github.com/daniels13ca/Intro_Programacion/blob/master/p5.zip)
 
 [Juan Olaya: Open Processing](https://www.openprocessing.org/user/65585/)
