@@ -14,7 +14,7 @@ function setup(){
 ```
 ```javascript
 //El draw() que se ejecuta cíclicamente
-function setup(){
+function draw(){
     //Paso 2a
     //Paso 2b
     //Paso 2c
