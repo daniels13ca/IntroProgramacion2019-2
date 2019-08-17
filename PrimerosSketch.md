@@ -47,7 +47,7 @@ function draw(){
 ## Radianes
 ![Radianes](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/radianes.JPG "Radianes")
 
-Algunos ejemplos de `arch()`:
+Algunos ejemplos de `arc()`:
 
 ```javascript
 function setup(){
