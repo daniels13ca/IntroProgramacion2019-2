@@ -21,7 +21,9 @@ silvdaniel@gmail.com
 * Colores
 
 [3. Estructuras de control: Condicionales](https://github.com/daniels13ca/Intro_Programacion)
+* Variables
 * Operadores
+* Estructura If
 
 [3. Estructuras de control: Ciclos](https://github.com/daniels13ca/Intro_Programacion)
 
@@ -40,6 +42,8 @@ silvdaniel@gmail.com
 ### Bibliografía
 
 [Introducción a P5.js](https://github.com/daniels13ca/Intro_Programacion/blob/master/Bibliograf%C3%ADa/Introduccion%20a%20P5.js.pdf)
+
+[P5 Reference](https://p5js.org/es/reference/)
 
 [The Coding Train](https://thecodingtrain.com/)
 
