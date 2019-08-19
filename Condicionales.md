@@ -4,7 +4,7 @@
 
 La razón fundamental de las variables es evitar repetir código. Por ejemplo veamos el siguiente sketch:
 
-![Variables 1](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "Variables 1")
+![Variables 1](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Variables1.JPG "Variables 1")
 
 ```javascript
 var y = 60;
@@ -43,7 +43,7 @@ function draw(){
 
 P5 ya tiene algunas variables predefinidas por ejemplo para crear el siguiente sketch:
 
-![Variables 2](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "Variables 2")
+![Variables 2](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Variables2.JPG "Variables 2")
 
 ```javascript
 function setup() {
@@ -63,11 +63,11 @@ No es necesario saber el tamaño del lienzo para ubicar los objetos (probar modi
 ## Operadores
 
 Al igual que en matématicas, en programación también existen operadores y entre ellos se tienen precedencias:
-![Operadores](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "Operadores")
+![Operadores](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Operadores.JPG "Operadores")
 
 ## Estructura `If`
 
-![If](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "If")
+![If](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Estructura%20If.png "If")
 
 ```javascript
 var flag = 0;
@@ -159,4 +159,4 @@ function draw() {
 ```
 *Actividad*: Modificar el Sketch para que el círculo detenga su crecimiento cuando llegué al borde del lienzo
 
-*Tarea*: Modificar el Sketch del personaje para que reaccione al click, por ejemplo cambie de color, mueva un ojo, etc. Se evaluará cuando este subido en Open Processing.
+**Tarea**: Modificar el Sketch del personaje para que reaccione al click, por ejemplo cambie de color, mueva un ojo, etc. Se evaluará cuando este subido en Open Processing.
