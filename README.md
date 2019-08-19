@@ -20,7 +20,7 @@ silvdaniel@gmail.com
 * Radianes
 * Colores
 
-[3. Estructuras de control: Condicionales](https://github.com/daniels13ca/Intro_Programacion)
+[3. Estructuras de control: Condicionales](https://github.com/daniels13ca/Intro_Programacion/blob/master/Condicionales.md)
 * Variables
 * Operadores
 * Estructura If
