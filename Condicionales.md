@@ -95,7 +95,7 @@ function mousePressed(){
 
 La estructuras condicionales se pueden encadenar entre si:
 
-![Múltiples If](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "Múltiples If")
+![Múltiples If](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/If_multiple.JPG "Múltiples If")
 
 ```javascript
 var x;
@@ -129,11 +129,11 @@ function draw() {
 
 *Ejemplo*: Si el mouse estra dentro de un círculo no hace nada, si el mouse se encuentra por fuera aumenta su radio y cambia de color:
 
-![Círculos 1](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "Círculos 1")
+![Círculos 1](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Circulos%201.JPG "Círculos 1")
 
 Para este caso, se utiliza la función `dist()` que obtiene la distancia entre el centro del círculo y la posición del mouse:
 
-![Círculos 2](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Coordenadas.JPG "Círculos 2")
+![Círculos 2](https://github.com/daniels13ca/Intro_Programacion/blob/master/images/Circulos%202.JPG "Círculos 2")
 
 ```javascript
 var x = 120;
