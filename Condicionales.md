@@ -160,3 +160,17 @@ function draw() {
 *Actividad*: Modificar el Sketch para que el círculo detenga su crecimiento cuando llegué al borde del lienzo
 
 **Tarea**: Modificar el Sketch del personaje para que reaccione al click, por ejemplo cambie de color, mueva un ojo, etc. Se evaluará cuando este subido en Open Processing.
+
+### Proyecto (07 de Septiembre)
+
+**Exposición (30%)**:
+* Creative Aplications (https://www.creativeapplications.net/)
+* Expirements with Google (https://experiments.withgoogle.com/)
+* School for poetic computation (https://sfpc.io/projects/)
+* DevArt - Art Made by Code (https://devart.withgoogle.com/)
+* YesYesNo (http://www.yesyesno.com/)
+* Art from Code (http://www.artfromcode.com/)
+
+**Sketch (50%)**: Crear un sketch creativo aplicando todo lo visto hasta la clase del 31 de Agosto.
+
+**Sustentación sketch (20%)**: Presentar en clase el sketch creado y realizar una modificación a petición del profesor.
