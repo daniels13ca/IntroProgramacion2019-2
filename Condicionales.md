@@ -171,6 +171,6 @@ function draw() {
 * YesYesNo (http://www.yesyesno.com/)
 * Art from Code (http://www.artfromcode.com/)
 
-**Sketch (50%)**: Crear un sketch creativo aplicando todo lo visto hasta la clase del 31 de Agosto.
+**Sketch (50%)**: Crear un sketch creativo aplicando todo lo visto hasta la clase del 31 de Agosto. Se evaluará el sketch en Open Processing antes de la clase.
 
 **Sustentación sketch (20%)**: Presentar en clase el sketch creado y realizar una modificación a petición del profesor.
