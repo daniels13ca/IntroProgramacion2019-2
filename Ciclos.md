@@ -8,21 +8,21 @@ La utilización de ciclos (o bucles) permite crear de forma dinámica elementos 
 
 * **Función `map()`**
 
-Convierte un valor de un rango en su valor equivalente en otro rango:
+	Convierte un valor de un rango en su valor equivalente en otro rango:
 
-`map(valor, inicio_rango_orginal, fin_rango_original, inicio_rango_nuevo, fin_rango_nuevo)`
+	`map(valor, inicio_rango_orginal, fin_rango_original, inicio_rango_nuevo, fin_rango_nuevo)`
 
 * **Palabra reservada `let`**
 
-Se puede utilizar para indicar que se le está asignando un valor a una variable
+	Se puede utilizar para indicar que se le está asignando un valor a una variable
 
-`let rojo = 150`
+	`let rojo = 150`
 
 * **Función `console.log()`**
 
-Sirve para imprimir en la consola información util para ver el estado de la ejecucución del sketch
+	Sirve para imprimir en la consola información util para ver el estado de la ejecucución del sketch
 
-`console.log(rojo);`
+	`console.log(rojo);`
 
 Ahora sí, al ejemplo:
 
