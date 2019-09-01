@@ -25,7 +25,8 @@ silvdaniel@gmail.com
 * Operadores
 * Estructura If
 
-[3. Estructuras de control: Ciclos](https://github.com/daniels13ca/Intro_Programacion)
+[3. Estructuras de control: Ciclos](https://github.com/daniels13ca/Intro_Programacion/blob/master/Ciclos.md)
+* Alcance de las variables
 
 [4. Estructuras de control: Ciclos anidados](https://github.com/daniels13ca/Intro_Programacion)
 
