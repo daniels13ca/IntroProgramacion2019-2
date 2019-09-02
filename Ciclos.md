@@ -131,4 +131,4 @@ Realizar un sketch que generé el siguiente resultado:
 
 El resultado se debe subir en OpenProcessing a más tardar a las 11:00 a.m. (Se dan puntos adicionales por mejoras a lo propuesto).
 
-*Tip:* Repasar el método `noStroke()` y el parametro alfa al declarar un color en RGB.
+*Tip:* Repasar el método `noStroke()` y el parámetro alfa al declarar un color en RGB.
