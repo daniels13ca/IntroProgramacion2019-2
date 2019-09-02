@@ -105,7 +105,7 @@ Modificar el sketch anterior para crear el siguiente patrón:
 
 ![Ejercicio 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Ejercicio2.JPG)
 
-### Ejemplo 2
+### Ejemplo 3
 
 ¿Cuál creen que es el resultado del siguiente sketch?:
 
