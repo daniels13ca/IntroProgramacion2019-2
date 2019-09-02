@@ -56,3 +56,21 @@ for( let i =0; i< 10; i++){
 }	
 
 ```
+
+### Ejemplo 1
+
+```javascript
+function setup() {
+	createCanvas(windowWidth, windowHeight);
+	background(246, 102, 121);   //'#F26DF9'
+}
+
+function draw() {
+
+	for(let x=0; x<width ; x=x+40){
+		stroke(254, 193, 149);
+		strokeWeight(8);
+		line(x,0,x,height);
+	}
+}
+```
