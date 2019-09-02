@@ -74,3 +74,9 @@ function draw() {
 	}
 }
 ```
+
+### Ejercicio 1:
+
+Modificar el sketch anterior para crear el siguiente patrón:
+
+![Ejercicio 1](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Ejercicio%201.JPG)
