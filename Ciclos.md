@@ -130,3 +130,5 @@ Realizar un sketch que generé el siguiente resultado:
 ![Taller](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/TallerFor.JPG)
 
 El resultado se debe subir en OpenProcessing a más tardar a las 11:00 a.m. (Se dan puntos adicionales por mejoras a lo propuesto).
+
+*Tip:* Repasar el método `noStroke()` y el parametro alfa al declarar un color en RGB.
