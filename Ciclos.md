@@ -103,5 +103,5 @@ function draw() {
 
 Modificar el sketch anterior para crear el siguiente patrón:
 
-![Ejercicio 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Ejercicio%201.JPG)
+![Ejercicio 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Ejercicio2.JPG)
 
