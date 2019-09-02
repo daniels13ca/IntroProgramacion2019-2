@@ -49,3 +49,10 @@ Si una variable local es declarada con el mismo nombre que una variable global, 
 ## Estructura de los ciclos `for()`
 
 ![Ciclo For](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/CicloFor.jpg)
+
+```javascript
+for( let i =0; i< 10; i++){
+	//Instrucciones
+}	
+
+```
