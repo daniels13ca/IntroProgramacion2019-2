@@ -105,3 +105,22 @@ Modificar el sketch anterior para crear el siguiente patrón:
 
 ![Ejercicio 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Ejercicio2.JPG)
 
+### Ejemplo 2
+
+¿Cuál creen que es el resultado del siguiente sketch?:
+
+```javascript
+function setup() {
+	createCanvas(windowWidth, windowHeight);
+	background(255);
+}
+
+function draw() {
+	for(let y=0,i=0.0 ; y<height ; y=y+20,i++){
+		stroke(255,0,0);
+		strokeWeight(1+i/4);
+		line(0,y,width,y);
+	}
+}
+```
+
