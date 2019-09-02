@@ -40,5 +40,10 @@ function draw() {
 
 ## Alcance de las variables
 
-https://p5js.org/es/examples/data-variable-scope.html
+Las variables tienen un alcance global o local. Por ejemplo, las variables declaradas dentro de las funciones `setup()` o `draw()` solamente pueden ser usadas dentro de esas funciones. 
 
+Las variables globales, esto es, variables declaradas fuera de `setup()` y `draw()`, pueden ser usadas en cualquier parte del programa. 
+
+Si una variable local es declarada con el mismo nombre que una variable global, el programa usará el valor local para hacer sus cálculos dentro de la función. Las variables son localizadas dentro de cada bloque, el espacio entre llaves { y }.
+
+## Estructura de los ciclos `for()`
