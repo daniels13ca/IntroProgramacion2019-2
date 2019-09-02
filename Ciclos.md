@@ -80,3 +80,28 @@ function draw() {
 Modificar el sketch anterior para crear el siguiente patrón:
 
 ![Ejercicio 1](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Ejercicio%201.JPG)
+
+### Ejemplo 2
+
+```javascript
+function setup() {
+	createCanvas(windowHeight, windowHeight);
+	background(255);
+}
+
+function draw() {
+	background(255);
+	for(let i=0;i<width;i=i+20){
+		stroke('#D24646');
+		strokeWeight(4);
+		line(0,i,i,0);
+	}
+
+}
+```
+### Ejercicio 2:
+
+Modificar el sketch anterior para crear el siguiente patrón:
+
+![Ejercicio 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Ejercicio%201.JPG)
+
