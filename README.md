@@ -29,7 +29,9 @@ silvdaniel@gmail.com
 * Alcance de las variables
 * Estructura de los ciclos For()
 
-[4. Estructuras de control: Ciclos anidados](https://github.com/daniels13ca/Intro_Programacion)
+[4. Estructuras de control: Ciclos anidados](https://github.com/daniels13ca/Intro_Programacion/blob/master/CiclosAnidados.md)
+* Estructura
+* Taller artístico
 
 [5. Funciones](https://github.com/daniels13ca/Intro_Programacion)
 
