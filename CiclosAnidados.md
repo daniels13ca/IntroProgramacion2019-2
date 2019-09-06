@@ -1,4 +1,4 @@
-#Ciclos anidados
+# Ciclos anidados
 
 En muchos casos se requiere controlar el valor de paso de dos o más variables a la vez, en este caso es necesario "anidar" ciclos:
 
@@ -79,10 +79,8 @@ PONER EL GIF
 
 Taller:
 
-https://www.pinterest.es/pin/557601997597674030/
-
 Utilizando lo visto hasta el momento crear un patrón similar a los siguientes:
 
-![Anidados 3](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Anidado3.JPG)
+[![Anidados 3](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Anidado3.JPG)](https://www.pinterest.es/pin/557601997597674030/)
 
 El resultado se debe subir en OpenProcessing a más tardar a las 11:00 a.m. (Se dan puntos adicionales por mejoras a lo propuesto).
