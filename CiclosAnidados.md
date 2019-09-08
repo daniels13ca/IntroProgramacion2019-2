@@ -68,8 +68,7 @@ function draw() {
  			blue = random(0,190);
 
       fill(red,green,blue);
-
-			ellipse(  i ,  j , 100, 100 );
+      ellipse(  i ,  j , 100, 100 );
 		}
 	}
 }
