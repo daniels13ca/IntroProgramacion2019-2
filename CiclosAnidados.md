@@ -75,7 +75,7 @@ function draw() {
 }
 
 ```
-PONER EL GIF
+![Anidados 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Anidado2.gif)
 
 Taller:
 
