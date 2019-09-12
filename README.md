@@ -33,7 +33,7 @@ silvdaniel@gmail.com
 * Estructura
 * Taller artístico
 
-[6. Code challenge](https://github.com/daniels13ca/Intro_Programacion)
+[6. Coding challenge](https://github.com/daniels13ca/Intro_Programacion)
 
 [7. Funciones](https://github.com/daniels13ca/Intro_Programacion)
 
