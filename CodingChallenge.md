@@ -2,9 +2,9 @@
 
 ## Reglas
 
-1. Etapa 1: Presentación de un ejemplo que sirve como base para el desarrollo del reto
-2. Etapa 2: Desarrollo del reto de forma individual
-3. Solo se aceptarán lo resultados subidos en OpenProcessing antes de las 11:00 a.m. (Se recomienda subier lo que tengan en ese momento así no este terminado)
+**1. Etapa 1**: Presentación de un ejemplo que sirve como base para el desarrollo del reto
+**2. Etapa 2**: Desarrollo del reto de forma individual
+3. Solo se aceptarán lo resultados subidos en OpenProcessing antes de las 11:00 a.m. (Se recomienda subir lo que tengan en ese momento así no este terminado)
 
 ## Etapa 1
 
