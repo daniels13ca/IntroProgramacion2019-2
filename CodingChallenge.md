@@ -10,6 +10,8 @@
 
 ![Reto 1]()
 
+https://www.openprocessing.org/sketch/685604
+
 ```javascript
 function setup() {
 	createCanvas(windowHeight, windowHeight);
@@ -26,5 +28,7 @@ function draw() {
 ## Etapa 2
 
 A partir del sketch de la Etapa 1, crear un propuesta creativa que lo modifique aumentando su complejidad, por ejemplo:
+
+https://www.openprocessing.org/sketch/602672
 
 ![Reto 2]() 
