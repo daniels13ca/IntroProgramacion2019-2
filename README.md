@@ -25,7 +25,7 @@ silvdaniel@gmail.com
 * Operadores
 * Estructura If
 
-[3. Estructuras de control: Ciclos](https://github.com/daniels13ca/Intro_Programacion/blob/master/Ciclos.md)
+[4. Estructuras de control: Ciclos](https://github.com/daniels13ca/Intro_Programacion/blob/master/Ciclos.md)
 * Alcance de las variables
 * Estructura de los ciclos For()
 
@@ -33,15 +33,17 @@ silvdaniel@gmail.com
 * Estructura
 * Taller artístico
 
-[5. Funciones](https://github.com/daniels13ca/Intro_Programacion)
+[5. Code challenge](https://github.com/daniels13ca/Intro_Programacion)
 
-[6. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion)
+[6. Funciones](https://github.com/daniels13ca/Intro_Programacion)
 
-[7. Control del tiempo y velocidad](https://github.com/daniels13ca/Intro_Programacion)
+[7. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion)
 
-[8. Interacción con sonidos](https://github.com/daniels13ca/Intro_Programacion)
+[8. Control del tiempo y velocidad](https://github.com/daniels13ca/Intro_Programacion)
 
-[9. Flujo de pantalla](https://github.com/daniels13ca/Intro_Programacion)
+[9. Interacción con sonidos](https://github.com/daniels13ca/Intro_Programacion)
+
+[10. Flujo de pantalla](https://github.com/daniels13ca/Intro_Programacion)
 
 ### Bibliografía
 
