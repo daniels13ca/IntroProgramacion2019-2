@@ -8,9 +8,7 @@
 
 ## Etapa 1
 
-![Reto 1]()
-
-https://www.openprocessing.org/sketch/685604
+![Reto 1](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Reto1.JPG)
 
 ```javascript
 function setup() {
@@ -29,6 +27,4 @@ function draw() {
 
 A partir del sketch de la Etapa 1, crear un propuesta creativa que lo modifique aumentando su complejidad, por ejemplo:
 
-https://www.openprocessing.org/sketch/602672
-
-![Reto 2]() 
+![Reto 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Reto2.JPG) 
