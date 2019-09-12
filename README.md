@@ -29,21 +29,21 @@ silvdaniel@gmail.com
 * Alcance de las variables
 * Estructura de los ciclos For()
 
-[4. Estructuras de control: Ciclos anidados](https://github.com/daniels13ca/Intro_Programacion/blob/master/CiclosAnidados.md)
+[5. Estructuras de control: Ciclos anidados](https://github.com/daniels13ca/Intro_Programacion/blob/master/CiclosAnidados.md)
 * Estructura
 * Taller artístico
 
-[5. Code challenge](https://github.com/daniels13ca/Intro_Programacion)
+[6. Code challenge](https://github.com/daniels13ca/Intro_Programacion)
 
-[6. Funciones](https://github.com/daniels13ca/Intro_Programacion)
+[7. Funciones](https://github.com/daniels13ca/Intro_Programacion)
 
-[7. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion)
+[8. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion)
 
-[8. Control del tiempo y velocidad](https://github.com/daniels13ca/Intro_Programacion)
+[9. Control del tiempo y velocidad](https://github.com/daniels13ca/Intro_Programacion)
 
-[9. Interacción con sonidos](https://github.com/daniels13ca/Intro_Programacion)
+[10. Interacción con sonidos](https://github.com/daniels13ca/Intro_Programacion)
 
-[10. Flujo de pantalla](https://github.com/daniels13ca/Intro_Programacion)
+[11. Flujo de pantalla](https://github.com/daniels13ca/Intro_Programacion)
 
 ### Bibliografía
 
