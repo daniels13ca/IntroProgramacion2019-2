@@ -1,11 +1,5 @@
 # Funciones
 
-Antes poner el reto de:
-
-https://www.openprocessing.org/sketch/685604
-
-https://www.openprocessing.org/sketch/602672
-
 Descripción
 Ya hemos usado algunas
 
