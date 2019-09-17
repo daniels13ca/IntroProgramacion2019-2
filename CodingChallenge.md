@@ -6,7 +6,7 @@
 
 **2. Etapa 2**: Desarrollo del reto de forma individual
 
-3. Solo se aceptarán lo resultados subidos en OpenProcessing antes de las 11:00 a.m. (Se recomienda subir lo que tengan en ese momento así no este terminado)
+**3. Criterios de recepción:** Solo se aceptarán lo resultados subidos en OpenProcessing antes de las 11:00 a.m. (Se recomienda subir lo que tengan en ese momento así no este terminado)
 
 ## Etapa 1
 
