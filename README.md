@@ -35,7 +35,10 @@ silvdaniel@gmail.com
 
 [6. Coding challenge](https://github.com/daniels13ca/Intro_Programacion/blob/master/CodingChallenge.md)
 
-[7. Funciones](https://github.com/daniels13ca/Intro_Programacion)
+[7. Funciones](https://github.com/daniels13ca/Intro_Programacion/blob/master/Funciones.md)
+* Descripción
+* Estructura
+* Recursión
 
 [8. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion)
 

@@ -12,11 +12,17 @@ Ya hemos usado algunas
 
 Otras funciones que ya se encuentran implementadas por defecto son:
 
-`setup()
+```javascript
+setup()
+
 draw()
+
 createCanvas()
+
 mousePressed()
-line()`
+
+line()
+```
 
 
 ## Estructura
@@ -29,15 +35,15 @@ Los elemementos que componen una función son:
 * Instrucciones a ejecutar
 * Valor retornado **(opcional)**
 
-`
+```javascript
 function suma(a, b){
-  return a+b; 
+    return a+b; 
 } 
-`
+```
 
-**Ejemplo:**
+**Ejemplo 1:**
 
-`
+```javascript
 function setup() {
   createCanvas(400, 400);
 }
@@ -52,14 +58,17 @@ function forma(a, b){
   rect(a - 80, b - 30, 60, 60);
   rect(a + 20, b - 30, 60, 60);
 }
-`
+```
 
+![Ejemplo 1](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Funciones1.png)
 
-Más avanzado:
+**Ejemplo 2:**
 
 https://p5js.org/examples/structure-functions.html
 
 ## Recursión 
+
+
 Ejemplo fibonacci
 
 Más avanzado: 
