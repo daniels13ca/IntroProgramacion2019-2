@@ -4,28 +4,56 @@
 
 Una función, subrutina o subprograma es un subalgoritmo que forma parte del algoritmo principal, el cual permite resolver una tarea específica y que puede ser invocada (utilizada) tantas veces como se requiera sin necesidad de volver a escribir todo el código.
 
-https://upload.wikimedia.org/wikipedia/commons/2/2c/Funciones.png
+![Funciones](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Funciones.png)
 
 Ya hemos usado algunas
 
-dist()
+`dist()`: Retorna la distancia entre dos puntos
 
-otras ya estan definidas:
+Otras funciones que ya se encuentran implementadas por defecto son:
 
-setup()
+`setup()
 draw()
 createCanvas()
 mousePressed()
-line()...
+line()`
 
 
 ## Estructura
 
-entrada salida
+Los elemementos que componen una función son:
 
-ejemplo de función calculadora
+* Palabra reservada `function`
+* Nombre de la función
+* Parámetros de entrada
+* Instrucciones a ejecutar
+* Valor retornado **(opcional)**
 
-ejemplo pintar dos cuadrados con un circulo en el centro
+`
+function suma(a, b){
+  return a+b; 
+} 
+`
+
+**Ejemplo:**
+
+`
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  forma(mouseX, mouseY);
+}
+
+function forma(a, b){
+  circle(a, b, 60);
+  rect(a - 80, b - 30, 60, 60);
+  rect(a + 20, b - 30, 60, 60);
+}
+`
+
 
 Más avanzado:
 
