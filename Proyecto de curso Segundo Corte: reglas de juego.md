@@ -17,13 +17,17 @@
 
 *Nota:* Estudiante que llegue despúes de las 8:00 no podrá sustentar y su calificación en ese item será 0.0
 
-**Sketch:** De creación propia. Debe estar subido antes del **Sábado 12 de Octubre a las 7:00** en Openprocessing y se debe estar siguiendo mi cuenta. Para la evaluación se tendrá en cuenta:
+### Sketch: 
+
+De creación propia. Debe estar subido antes del **Sábado 12 de Octubre a las 7:00** en Openprocessing y se debe estar siguiendo mi cuenta. Para la evaluación se tendrá en cuenta:
 
 * Temas vistos cortes 1
 * Condicionales
 * Ciclos
 
-**Sustentación:** De carácter **INDIVIDUAl**, no esta permitido pedir ayuda o asesoría a otro compañero. Si se detecta esta comportamiento: 
+### Sustentación: 
+
+De carácter **INDIVIDUAl**, no esta permitido pedir ayuda o asesoría a otro compañero. Si se detecta esta comportamiento: 
 
 * La primera vez se hará una advertencia verbal a los involucrados.
 * La segunda vez la calificación para el estudiante que solicite ayuda será **0.0 en el item de sustentación** y para el estudiante que preste ayuda, su nota se **reducirá en un 50%** en el item de sustencación.
