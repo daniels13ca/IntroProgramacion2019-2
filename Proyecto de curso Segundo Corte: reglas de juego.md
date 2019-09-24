@@ -9,7 +9,7 @@
 
 **07:30-08:00:** Entrega notas de tareas, talleres y del sketch
 
-**08:00-08:10:** Entrega de la modificación a hacer en el sketch durante la sistentación
+**08:00-08:10:** Entrega de la modificación a hacer en el sketch durante la sustentación
 
 **08:10-10:00:** Desarrollo de la modificación indicada al sketch
 
@@ -21,7 +21,7 @@
 
 De creación propia. Debe estar subido antes del **Sábado 12 de Octubre a las 7:00** en Openprocessing y se debe estar siguiendo mi cuenta. Para la evaluación se tendrá en cuenta:
 
-* Temas vistos cortes 1
+* Temas vistos corte 1
 * Condicionales
 * Ciclos
 
