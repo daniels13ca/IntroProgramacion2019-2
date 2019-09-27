@@ -15,7 +15,7 @@
 
 **10:00-10:10:** Entrega de nota final del corte
 
-*Nota:* Estudiante que llegue despúes de las 8:00 no podrá sustentar y su calificación en ese item será 0.0
+*Nota:* Estudiante que llegue despúes de las 8:00 no podrá sustentar y su calificación en ese ítem será 0.0
 
 ### Sketch: 
 
@@ -30,4 +30,4 @@ De creación propia. Debe estar subido antes del **Sábado 12 de Octubre a las 7
 De carácter **INDIVIDUAl**, no esta permitido pedir ayuda o asesoría a otro compañero. Si se detecta esta comportamiento: 
 
 * La primera vez se hará una advertencia verbal a los involucrados.
-* La segunda vez la calificación para el estudiante que solicite ayuda será **0.0 en el item de sustentación** y para el estudiante que preste ayuda, su nota se **reducirá en un 50%** en el item de sustencación.
+* La segunda vez la calificación para el estudiante que solicite ayuda será **0.0 en el ítem de sustentación** y para el estudiante que preste ayuda, su nota se **reducirá en un 50%** en el ítem de sustencación.
