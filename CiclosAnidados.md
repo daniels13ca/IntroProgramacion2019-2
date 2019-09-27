@@ -63,12 +63,12 @@ function draw() {
 		
 		for (let j=0; j<height; j=j+diameter) {
       
-      red = random(240,255);
+                        red = random(240,255);
  			green = random(100,255);    
  			blue = random(0,190);
       
-      fill(red,green,blue);
-      ellipse(  i ,  j , 100, 100 );
+                        fill(red,green,blue);
+                        ellipse(  i ,  j , 100, 100 );
 		}
 	}
 }
