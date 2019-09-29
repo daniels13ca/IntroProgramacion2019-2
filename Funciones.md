@@ -93,7 +93,7 @@ Es una función que se llama a si misma modificando el valor de un paramétro y 
 
 El factorial de un número es multiplicar dicho número por todos sus anteriores hasta llegar a 1. Se representa con una exclamación (!). 
 
-**Por ejemplo:** 5! = 5*4*3*2*1 = 120
+**Por ejemplo:** 5! = 5x4x3x2x1 = 120
 
 *Nota*: 0! = 1
 
@@ -121,7 +121,7 @@ function factorial(n){
 
 ```
 
-### Ejemplo fibonacci
+### Ejemplo Fibonacci
 
 En matemáticas, la sucesión o serie de Fibonacci es la siguiente sucesión infinita de números naturales:
 
