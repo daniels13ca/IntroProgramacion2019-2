@@ -33,7 +33,7 @@ silvdaniel@gmail.com
 * Estructura
 * Taller artístico
 
-[Proyecto de curso Segundo Corte: reglas de juego](https://github.com/daniels13ca/Intro_Programacion/blob/master/Proyecto%20de%20curso%20Segundo%20Corte:%20reglas%20de%20juego.md)
+[Proyecto de curso Segundo Corte: reglas de juego](https://github.com/daniels13ca/Intro_Programacion/blob/master/Proyecto%20de%20curso%20Segundo%20Corte%20reglas%20de%20juego.md)
 
 [6. Coding challenge](https://github.com/daniels13ca/Intro_Programacion/blob/master/CodingChallenge.md)
 
