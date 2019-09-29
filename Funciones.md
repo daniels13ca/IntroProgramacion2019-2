@@ -87,6 +87,39 @@ function drawTarget(xloc, yloc, size, num) {
 
 ## Recursión 
 
+Es una función que se llama a si misma modificando el valor de un paramétro y teniendo un criterio de parada, es decir deja de invocarse cuando se cumple una condición.
+
+### Ejemplo factorial
+
+El factorial de un número es multiplicar dicho número por todos sus anteriores hasta llegar a 1. Se representa con una exclamación (!). 
+
+**Por ejemplo:** 5! = 5*4*3*2*1 = 120
+
+*Nota*: 0! = 1
+
+```javascript
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  
+  let f = factorial(5);
+  textSize(32);
+  text(f, 150, 150);
+}
+
+function factorial(n){
+  if(n == 0){
+    return 1;
+  } else {
+    return n * factorial(n-1);
+  }    
+} 
+
+```
 
 Ejemplo fibonacci
 
@@ -98,4 +131,30 @@ https://p5js.org/examples/structure-recursion.html
 
 Crear un sketch estilo fractal
 
-https://editor.p5js.org/projects/Sk4bc9cp
+```javascript
+
+function setup() {
+  createCanvas(400, 400);
+  background(0);
+}
+
+function draw() {
+
+  drawCircle(width / 2, height / 2, 200);
+  noLoop();
+}
+
+function drawCircle(x, y, r) {
+  
+  stroke(255);
+  noFill();
+  ellipse(x, y, r, r);
+  if (r > 2) {
+    drawCircle(x + r / 2, y, r / 2);
+    drawCircle(x - r / 2, y, r / 2);
+  }
+}
+
+```
+![Fractal](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Fractal.PNG)
+
