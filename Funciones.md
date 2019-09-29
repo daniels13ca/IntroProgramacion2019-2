@@ -121,11 +121,42 @@ function factorial(n){
 
 ```
 
-Ejemplo fibonacci
+### Ejemplo fibonacci
 
-Más avanzado: 
+En matemáticas, la sucesión o serie de Fibonacci es la siguiente sucesión infinita de números naturales:
 
-https://p5js.org/examples/structure-recursion.html
+**0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55...**
+
+La sucesión comienza con los números 0 y 1, y a partir de estos, «cada término es la suma de los dos anteriores», es la relación de recurrencia que la define.
+
+A los elementos de esta sucesión se les llama números de Fibonacci. Esta sucesión fue descrita en Europa por Leonardo de Pisa, matemático italiano del siglo XIII también conocido como Fibonacci. Tiene numerosas aplicaciones en ciencias de la computación, matemática y teoría de juegos. También aparece en configuraciones biológicas, como por ejemplo en las ramas de los árboles, en la disposición de las hojas en el tallo, en las flores de alcachofas y girasoles, en las inflorescencias del brécol romanesco, en la configuración de las piñas de las coníferas, en la reproducción de los conejos y en cómo el ADN codifica el crecimiento de formas orgánicas complejas. De igual manera, se encuentra en la estructura espiral del caparazón de algunos moluscos, como el nautilus.
+
+```javascript
+
+function setup() { 
+  createCanvas(400, 400);
+} 
+
+function draw() { 
+  background(220);
+
+  for (var i = 0;  i <= 10; i++) {
+    var s = "fib(" + i + ") = " + fib(i);
+    text(s, 100, 50 + i * 20);
+  }
+}
+
+function fib(n) {
+  if (n <= 0) {
+    return 0;
+  } else if (n == 1) {
+    return 1;
+  } else {
+    return fib(n - 1) + fib (n - 2);
+  }
+}
+
+```
 
 ### Tarea:
 
