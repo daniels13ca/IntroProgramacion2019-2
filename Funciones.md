@@ -64,7 +64,26 @@ function forma(a, b){
 
 **Ejemplo 2:**
 
-https://p5js.org/examples/structure-functions.html
+```javascript
+
+function draw() {
+  drawTarget(width * 0.25, height * 0.4, 200, 4);
+  drawTarget(width * 0.5, height * 0.5, 300, 10);
+  drawTarget(width * 0.75, height * 0.3, 120, 6);
+}
+
+function drawTarget(xloc, yloc, size, num) {
+  const grayvalues = 255 / num;
+  const steps = size / num;
+  for (let i = 0; i < num; i++) {
+    fill(i * grayvalues);
+    ellipse(xloc, yloc, size - i * steps, size - i * steps);
+  }
+}
+
+```
+
+![Ejemplo 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Funciones2.png)
 
 ## Recursión 
 
@@ -75,7 +94,7 @@ Más avanzado:
 
 https://p5js.org/examples/structure-recursion.html
 
-Tarea:
+### Tarea:
 
 Crear un sketch estilo fractal
 
