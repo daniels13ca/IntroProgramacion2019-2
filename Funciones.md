@@ -83,7 +83,7 @@ function drawTarget(xloc, yloc, size, num) {
 
 ```
 
-![Ejemplo 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Funciones2.png)
+![Ejemplo 2](https://raw.githubusercontent.com/daniels13ca/Intro_Programacion/master/images/Funciones2.PNG)
 
 ## Recursión 
 
