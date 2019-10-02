@@ -29,7 +29,7 @@ De creación propia. Debe estar subido antes del **Sábado 12 de Octubre a las 7
 
 ### Sustentación:
 
-De carácter **INDIVIDUAL**, no esta permitido pedir ayuda o asesoría a otro compañero. Si se detecta esta comportamiento:
+De carácter **INDIVIDUAL**, no esta permitido pedir ayuda o asesoría a otro compañero. Si se detecta este comportamiento:
 
 * La primera vez se hará una advertencia verbal a los involucrados.
 
