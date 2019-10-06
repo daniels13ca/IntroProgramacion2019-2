@@ -33,4 +33,4 @@ De carácter **INDIVIDUAL**, no esta permitido pedir ayuda o asesoría a otro co
 
 * La primera vez se hará una advertencia verbal a los involucrados.
 
-* La segunda vez la calificación para el estudiante que solicite ayuda será **0.0 en el ítem de sustentación** y para el estudiante que preste ayuda, su nota se **reducirá en un 50%** en el ítem de sustencación.
+* La segunda vez la calificación para el estudiante que solicite ayuda será **0.0 en el ítem de sustentación** y para el estudiante que preste ayuda, su nota se **reducirá en un 50%** en el ítem de sustentación.
