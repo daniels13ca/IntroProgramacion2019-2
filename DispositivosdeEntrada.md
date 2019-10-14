@@ -1,15 +1,3 @@
-```javascript
-setup()
-
-draw()
-
-createCanvas()
-
-mousePressed()
-
-line()
-```
-
 # Dispositivos de entrada
 
 Es posible interactura con un sketch a través de diferentes dispositivos de entrada tanto en equipos de escritorio como móviles, veamos algunas posibilidades:
@@ -36,7 +24,7 @@ function mousePressed() {
 ```
 ### Mouse released
 
-La función mouseReleased() es llamada cada vez que un botón del ratón es soltado.
+La función `mouseReleased()` es llamada cada vez que un botón del ratón es soltado.
 
 ```javascript
 let value = 0;

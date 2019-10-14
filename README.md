@@ -42,7 +42,7 @@ silvdaniel@gmail.com
 * Estructura
 * Recursión
 
-[8. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion)
+[8. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion/blob/master/DispositivosdeEntrada.md)
 
 [9. Control del tiempo y velocidad](https://github.com/daniels13ca/Intro_Programacion)
 
