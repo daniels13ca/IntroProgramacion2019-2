@@ -43,6 +43,10 @@ silvdaniel@gmail.com
 * Recursión
 
 [8. Dispositivos de entrada](https://github.com/daniels13ca/Intro_Programacion/blob/master/DispositivosdeEntrada.md)
+* Mouse
+* Teclado
+* Dispositivos móviles
+* Otros
 
 [9. Control del tiempo y velocidad](https://github.com/daniels13ca/Intro_Programacion)
 
