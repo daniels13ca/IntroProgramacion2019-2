@@ -12,17 +12,66 @@ line()
 
 # Dispositivos de entrada
 
+Es posible interactura con un sketch a través de diferentes dispositivos de entrada tanto en equipos de escritorio como móviles, veamos algunas posibilidades:
+
 ## Mouse
 
-https://p5js.org/es/reference/#/p5/mousePressed
+### Mouse pressed
 
-https://p5js.org/es/reference/#/p5/mouseReleased
+La función `mousePressed()` es llamada cada vez que un botón del ratón está siendo presionado.
 
-https://p5js.org/es/reference/#/p5/doubleClicked
+```javascript
+let value = 0;
+function draw() {
+  fill(value);
+  rect(25, 25, 50, 50);
+}
+function mousePressed() {
+  if (value === 0) {
+    value = 255;
+  } else {
+    value = 0;
+  }
+}
+```
+### Mouse released
 
-https://p5js.org/es/reference/#/p5/movedX
+La función mouseReleased() es llamada cada vez que un botón del ratón es soltado.
 
-https://p5js.org/es/reference/#/p5/movedY
+```javascript
+let value = 0;
+function draw() {
+  fill(value);
+  rect(25, 25, 50, 50);
+}
+function mouseReleased() {
+  if (value === 0) {
+    value = 255;
+  } else {
+    value = 0;
+  }
+}
+```
+
+### Double clicked
+
+Esta función se ejecuta cada vez que se detecta un click doble.
+
+```javascript
+let value = 0;
+function draw() {
+  fill(value);
+  rect(25, 25, 50, 50);
+}
+
+function doubleClicked() {
+  if (value === 0) {
+    value = 255;
+  } else {
+    value = 0;
+  }
+}
+```
 
 ## Teclado
 
