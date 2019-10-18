@@ -198,14 +198,74 @@ function draw() {
 
 ## Dispositivos móviles
 
-https://p5js.org/es/reference/#/p5/touches
+### Touches
 
-https://p5js.org/es/reference/#/p5/touchStarted
+La variable de sistema `touches[]` contiene un arreglo de todos los puntos que actualmente se estan tocando.
 
-https://p5js.org/es/reference/#/p5/touchMoved
+```javascript
+function draw() {
+  clear();
+  let display = touches.length + ' touches';
+  text(display, 5, 10);
+}
+```
 
-https://p5js.org/es/reference/#/p5/touchEnded
+### Touch Started
+
+La función `touchStarted()` es llamada una vez, cada vez que un toque nuevo es registrado.
+
+```javascript
+let value = 0;
+function draw() {
+  fill(value);
+  rect(25, 25, 50, 50);
+}
+function touchStarted() {
+  if (value === 0) {
+    value = 255;
+  } else {
+    value = 0;
+  }
+}
+```
+
+### Touch Moved
+
+Esta función es llamada cada vez que se detecta un movimiento en una pantalla touch.
+
+```javascript
+let value = 0;
+function draw() {
+  fill(value);
+  rect(25, 25, 50, 50);
+}
+function touchMoved() {
+  value = value + 5;
+  if (value > 255) {
+    value = 0;
+  }
+}
+```
+
+### Touch Ended
+
+La función `touchEnded()` es llamada una vez, cada vez que un toque finaliza.
+
+```javascript
+let value = 0;
+function draw() {
+  fill(value);
+  rect(25, 25, 50, 50);
+}
+function touchEnded() {
+  if (value === 0) {
+    value = 255;
+  } else {
+    value = 0;
+  }
+}
+```
 
 ## Otros
 
-Ejemplos arduino
+**Tarea:** Investigar que es Arduino y su posible interacción con P5
