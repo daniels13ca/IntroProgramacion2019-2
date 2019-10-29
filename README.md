@@ -54,6 +54,8 @@ silvdaniel@gmail.com
 
 [11. Flujo de pantalla](https://github.com/daniels13ca/Intro_Programacion)
 
+[Proyecto final del curso: Reglas de juego](https://github.com/daniels13ca/Intro_Programacion/blob/master/ProyectoFinal.md)
+
 ### Bibliografía
 
 [Introducción a P5.js](https://github.com/daniels13ca/Intro_Programacion/blob/master/Bibliograf%C3%ADa/Introduccion%20a%20P5.js.pdf)
