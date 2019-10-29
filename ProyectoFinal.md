@@ -40,7 +40,7 @@ De creación propia. Debe estar subido antes del Sábado 23 de Octubre a las 7:0
 *	Condicionales (25%)
 *	Ciclos (25%)
 *	Funciones (25%)
-*	Creatividad y originalidad (25%9
+*	Creatividad y originalidad (25%)
 
 **Sustentación:**
 
