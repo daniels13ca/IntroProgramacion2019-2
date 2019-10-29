@@ -23,13 +23,13 @@ En esta etapa se realizará la implementación del sketch diseñado previamente.
 
 ### Agenda:
 
-**07:30-08:00:** Entrega notas de tareas, talleres y del sketch
+**07:30-08:00 a.m.:** Entrega notas de tareas, talleres y del sketch
 
-**08:00-08:10:** Entrega de la modificación a hacer en el sketch durante la sustentación
+**08:00-08:10 a.m.:** Entrega de la modificación a hacer en el sketch durante la sustentación
 
-**08:10-10:00:** Desarrollo de la modificación indicada al sketch
+**08:10-10:00 a.m.:** Desarrollo de la modificación indicada al sketch
 
-**10:00-10:30:** Entrega de nota final del corte y del curso
+**10:00-10:30 a.m.:** Entrega de nota final del corte y del curso
 
 *Nota:* Estudiante que llegue después de las 8:00 a.m. no podrá sustentar y su calificación en ese ítem será 0.0
 
