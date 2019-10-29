@@ -35,7 +35,7 @@ En esta etapa se realizará la implementación del sketch diseñado previamente.
 
 **Sketch:**
 
-De creación propia. Debe estar subido antes del Sábado 23 de Octubre a las 7:00 a.m. en Openprocessing y se debe estar siguiendo mi cuenta. Para la evaluación se tendrá en cuenta:
+De creación propia. Debe estar subido antes del Sábado **23 de Octubre a las 7:00 a.m.** en Openprocessing y se debe estar siguiendo mi cuenta. Para la evaluación se tendrá en cuenta:
 
 *	Condicionales (25%)
 *	Ciclos (25%)
