@@ -29,7 +29,7 @@ En esta etapa se realizará la implementación del sketch diseñado previamente.
 
 **08:10-10:00:** Desarrollo de la modificación indicada al sketch
 
-**10:00-10:10:** Entrega de nota final del corte y del curso
+**10:00-10:30:** Entrega de nota final del corte y del curso
 
 *Nota:* Estudiante que llegue después de las 8:00 a.m. no podrá sustentar y su calificación en ese ítem será 0.0
 
