@@ -35,7 +35,7 @@ En esta etapa se realizará la implementación del sketch diseñado previamente.
 
 **Sketch:**
 
-De creación propia. Debe estar subido antes del Sábado **23 de Octubre a las 7:00 a.m.** en Openprocessing y se debe estar siguiendo mi cuenta. Para la evaluación se tendrá en cuenta:
+De creación propia. Debe estar subido antes del Sábado **23 de Noviembre a las 7:00 a.m.** en Openprocessing y se debe estar siguiendo mi cuenta. Para la evaluación se tendrá en cuenta:
 
 *	Condicionales (25%)
 *	Ciclos (25%)
@@ -44,7 +44,7 @@ De creación propia. Debe estar subido antes del Sábado **23 de Octubre a las 7
 
 **Sustentación:**
 
-De carácter INDIVIDUAL, no está permitido pedir ayuda o asesoría a otro compañero. Si se detecta este comportamiento:
+De carácter **INDIVIDUAL**, no está permitido pedir ayuda o asesoría a otro compañero. Si se detecta este comportamiento:
 
 *	La primera vez se hará una advertencia verbal a los involucrados.
 *	La segunda vez la calificación para el estudiante que solicite ayuda será 0.0 en el ítem de sustentación y para el estudiante que preste ayuda, su nota se reducirá en un 50% en el ítem de sustentación.
